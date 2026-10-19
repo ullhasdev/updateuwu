@@ -15,3 +15,8 @@ sudo chmod +x /usr/local/bin/updateuwu
 
  ## run it 
  updateuwu
+
+## customizing the name 
+if you have already have a file named "updateuwu", go to
+nano /usr/local/bin/updateuwu 
+and change your name from arch-sama to whatever you want
