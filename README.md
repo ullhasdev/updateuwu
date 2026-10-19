@@ -1,4 +1,4 @@
-# updateuwu
+# updateuwu v1.0.0
 an updater tool for lazy arch linux users 
 
 ## what it does
